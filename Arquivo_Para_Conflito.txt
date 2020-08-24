@@ -1,0 +1,4 @@
+Capítulo 5
+Resolvendo conflitos
+Vamos agora imaginar o seguinte caso, você precisa criar o capítulo 5 desde conteúdo, então você cria uma branch Cap_5_Adicao, cria seu capítulo, mas em paralelo um colega também criou o capítulo 5 em outra branch, na hora que você foi efetuar o merge da Cap_5_Adicao para Homolog ele irá conflitar avisando que ambos lugares no arquivo foram editados.
+Vamos Adicionar mais um linha.
